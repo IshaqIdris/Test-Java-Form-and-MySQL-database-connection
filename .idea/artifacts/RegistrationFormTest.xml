@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="RegistrationFormTest">
+    <output-path>$PROJECT_DIR$/out/artifacts/RegistrationFormTest</output-path>
+    <root id="root">
+      <element id="library" level="project" name="mysql-connector-java-5.1.45-bin" />
+      <element id="archive" name="RegistrationFormTest" />
+      <element id="archive" name="RegistrationForm.jar">
+        <element id="module-output" name="RegistrationForm" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
